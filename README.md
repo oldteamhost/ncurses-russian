@@ -1,5 +1,5 @@
-# ncurses-RU
-Документация по ncurses на Русском.  
+# Ncurses Russian
+Документация NCURSES Programming HOWTO на Русском.  
 Я не переводчик, но стойкий.  
 Поэтому использую [depl](https://www.deepl.com/translato)
 
