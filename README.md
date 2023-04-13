@@ -3,6 +3,8 @@
 Я не переводчик, но стойкий.  
 Поэтому использую [depl](https://www.deepl.com/translato)
 
+# Сама [документация](https://github.com/oldteamhost/ncurses-russian/wiki)
+
 ## Пока в разработке, но вы можете помочь!  
 Для всех предложений, изменений, и перевода пишите в телеграм https://t.me/Lomasterrr
 
